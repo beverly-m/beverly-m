@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicole Moyo</h1>
-<h4 align="center">A Designer and Developer from Zimbabwe, currently based in Rwanda.</h3>
+<h4 align="center">A Designer and Developer based in Zimbabwe.</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beverly-m&show_icons=true&locale=en&layout=compact" alt="beverly-m" /></p>
 
